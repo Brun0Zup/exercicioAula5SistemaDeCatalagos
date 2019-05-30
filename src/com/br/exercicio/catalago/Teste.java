@@ -15,7 +15,10 @@ public class Teste {
 		while (controle == 1) {
 
 			System.out.println(
-					"(1) Adicionar Filme;\n" + "(2) Adicionar Livro;\n" + "(3) Adicionar Música;\n" + "(4) Para sair");
+					"(1) Adicionar Filme;\n"
+			+ "(2) Adicionar Livro;\n" 
+							+ "(3) Adicionar Música;\n" 
+			+ "(4) Para sair");
 
 			int verificador = entrada.nextInt();
 
